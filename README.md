@@ -1,5 +1,6 @@
 
 #Artwork Restoration using stable Diffusion inpainting 
+Amit maurya
 
 ###This project uses Stable Diffusion model to damaged artwork 
 
